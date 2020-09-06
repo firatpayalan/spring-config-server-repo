@@ -4,3 +4,5 @@ spring:
 
 app:
   message: How you doin ?
+  refreshed:
+    message: This is a refreshed message !!!
